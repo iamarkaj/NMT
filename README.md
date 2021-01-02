@@ -28,8 +28,8 @@ jupyter notebook
 
 #### Restore the checkpoint
 
-don't run
+👇don't run
 > Call the training and testing function
 
-uncomment and run 
+👇uncomment and run 
 > Restore the checkpoint
